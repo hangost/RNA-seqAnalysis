@@ -1,0 +1,11 @@
+Sample.ID	Sample.Group
+T_ApoE_1	T_ApoE0
+T_ApoE_2	T_ApoE0
+T_ApoE_3	T_ApoE0
+T_ApoE_4	T_ApoE0
+T_DKO_1	T_DKO0
+T_DKO_2	T_DKO0
+T_DKO_3	T_DKO0
+T_DKO_4	T_DKO1
+T_DKO_5	T_DKO1
+T_DKO_6	T_DKO1
